@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-mq5yse32"",
+  ""goal"": ""batch normalizer for log analysis"",
+  ""language"": ""rust"",
+  ""template"": ""rust-cli""
+}
